@@ -14,7 +14,11 @@ I'm a full-stack data scientist | [AWS-certified Solutions Architect](https://ww
 
 ## 👷 My stats
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamtrinh259&theme=light&show_icons=true&background=FFFFFF)](https://github.com/lamtrinh259)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lamtrinh259&theme=light&background=FFFFFF)](https://github.com/lamtrinh259)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=lamtrinh259&no-bg=true&no-frame=true&column=5&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamtrinh259)](https://github.com/lamtrinh259)
 
