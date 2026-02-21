@@ -21,10 +21,6 @@ I'm a full-stack data scientist and product manager | [AWS-certified Data Engine
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lamtrinh259&theme=light&background=FFFFFF)](https://github.com/lamtrinh259)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=lamtrinh259&no-bg=true&no-frame=true&column=5&theme=algolia)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamtrinh259)](https://github.com/lamtrinh259)
-
 
 <!--
 **lamtrinh259/lamtrinh259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,4 +35,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+These 2 stats below are not working because the owner paused the Vercel deployments.
+![Trophy](https://github-profile-trophy.vercel.app/?username=lamtrinh259&no-bg=true&no-frame=true&column=5&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamtrinh259)](https://github.com/lamtrinh259)
+
 -->
