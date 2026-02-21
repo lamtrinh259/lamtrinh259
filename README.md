@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/397ed700-24fa-4c0e-a736-ed7695e468d5" />## 👋 Welcome to my Github profile 
+## 👋 Welcome to my Github profile 
 
 I'm a full-stack data scientist and product manager | [AWS-certified Data Engineer](https://www.credly.com/badges/0db60df3-8f4a-4cd8-909d-8443ffc401de/public_url) | [AWS-certified Solutions Architect](https://www.credly.com/badges/a6979767-37b9-4c4f-a6ed-bfc0b96c2c77/public_url) | Web3 Builder based in Tokyo, Japan. I'm passionate about building products using AI + crypto technology. 
 
@@ -10,7 +10,7 @@ I'm a full-stack data scientist and product manager | [AWS-certified Data Engine
 ---
 
 ## 🛠️ Products I have built
-- [Kaidan CRO](https://kaidancro.com/): An alternative tool to the traditional A/B testing process that helps websites convert better by allowing website owners to test multiple versions their websites
+- [Kaidan CRO](https://kaidancro.com/): An alternative tool to the traditional A/B testing process that helps websites convert better by allowing website owners to test and deploy multiple versions their websites using AI agents
 - [Crypto card guide](http://cryptocardguide.com/): A comprehensive directory that lists over 100 crypto cards where users can easily filter and compare up to 4 cards side by side. 
 
 --- 
