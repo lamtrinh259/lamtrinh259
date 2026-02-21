@@ -17,8 +17,6 @@ I'm a full-stack data scientist and product manager | [AWS-certified Data Engine
 
 ## 👷 My stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamtrinh259&theme=light&show_icons=true&background=FFFFFF)](https://github.com/lamtrinh259)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lamtrinh259&theme=light&background=FFFFFF)](https://github.com/lamtrinh259)
 
 
@@ -36,7 +34,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-These 2 stats below are not working because the owner paused the Vercel deployments.
+These 3 stats below are not working because the owner(s) paused the Vercel deployments.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamtrinh259&theme=light&show_icons=true&background=FFFFFF)](https://github.com/lamtrinh259)
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=lamtrinh259&no-bg=true&no-frame=true&column=5&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamtrinh259)](https://github.com/lamtrinh259)
