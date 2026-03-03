@@ -11,7 +11,8 @@ I'm a full-stack data scientist and product manager | [AWS-certified Data Engine
 
 ## 🛠️ Products I have built
 - [Kaidan CRO](https://kaidancro.com/): An alternative tool to the traditional A/B testing process that helps websites convert better by allowing website owners to test and deploy multiple versions their websites using AI agents
-- [Crypto card guide](http://cryptocardguide.com/): A comprehensive directory that lists over 100 crypto cards where users can easily filter and compare up to 4 cards side by side. 
+- [Crypto card guide](http://cryptocardguide.com/): A comprehensive directory that lists over 100 crypto cards where users can easily filter and compare up to 4 cards side by side.
+- [Telegram gating bot for groups](https://github.com/lamtrinh259/Telegram_bot_SuperteamMY): A lightweight, production-ready gatekeeping Telegram bot that ensures every new member introduces themselves properly before being able to engage in the main group.
 
 --- 
 
