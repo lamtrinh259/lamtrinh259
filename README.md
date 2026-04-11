@@ -1,6 +1,6 @@
 ## 👋 Welcome to my Github profile 
 
-I'm a full-stack data scientist and product manager | [AWS-certified Data Engineer](https://www.credly.com/badges/0db60df3-8f4a-4cd8-909d-8443ffc401de/public_url) | [AWS-certified Solutions Architect](https://www.credly.com/badges/a6979767-37b9-4c4f-a6ed-bfc0b96c2c77/public_url) | Web3 Builder based in Tokyo, Japan. I'm passionate about building products using AI + crypto technology. 
+I'm a full-stack data scientist and product manager | [AWS-certified Data Engineer](https://www.credly.com/badges/0db60df3-8f4a-4cd8-909d-8443ffc401de/public_url) | [AWS-certified Solutions Architect](https://www.credly.com/badges/a6979767-37b9-4c4f-a6ed-bfc0b96c2c77/public_url) | Web3 Builder based in Tokyo, Japan. I'm passionate about building products using AI to disrupt traditional industries. Right now I'm exploring how to disrupt the insurance industry with agentic AI. 
 
 - 🌱 I’m currently learning about AI agents, DevOps, MLOps
 - 💬 Ask me about Web3, travelling, product management, data science, startup
